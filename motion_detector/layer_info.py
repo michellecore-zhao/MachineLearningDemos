@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 """
 
-created by C.L.Wang
+created by X. Zhao
 """
 import os
 
