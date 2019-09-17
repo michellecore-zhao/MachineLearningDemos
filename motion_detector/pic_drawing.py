@@ -2,7 +2,7 @@
 """
 绘制传感器数据
 
-created by C.L.Wang
+created by X. Zhao
 """
 import matplotlib.pyplot as plt
 from cycler import cycler
